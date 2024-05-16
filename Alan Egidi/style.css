@@ -54,9 +54,9 @@ h1{
     display: flex;
     justify-content: center
 }
-h2{
+.tutorial h2{
     font-size: 30px;
-    color: rgb(70, 19, 255);
+    color: rgb(55, 0, 255);
     font-family: fantasy;
 }
 p{
